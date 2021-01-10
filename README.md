@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hi there 👋 This is Praddyumn, thanks for visiting my profile ❤️
 
-<!--
-**Praddyumn16/Praddyumn16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### 🔭 I’m currently working on building my full stack development skills after having a bit of experience in front-end !! I also do Competitve Programming and you can find me on Codechef at : https://www.codechef.com/users/praddyumn
+###  🌱 I’m currently learning web development frameworks like React and Node.js
+### 👯 I’m looking to collaborate on full stack projects and on anything where you find of some use 😅
+### 🤔 I’m looking for help with getting good in Javascript and back end development !!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💬 Ask me about anything but not local hos
+
+### 📫 How to reach me: Catch me up on LinkedIn at https://www.linkedin.com/in/praddyumnshukla/ or mail me at spraddyumn@gmail.com
+
+### 😄 Pronouns: He/Him
+
+### ⚡ Fun fact: My keyboard never sleeps coz it got shifts 🥱
+
