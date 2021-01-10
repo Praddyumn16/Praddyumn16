@@ -3,7 +3,7 @@
 
 ### What do i do ⚠️
 + 🔭 I’m currently working on building my full stack development skills after having some experience in front-end !! 
-+ I also do a bit of Competitve Programming and you can find me on Codechef [here](https://www.codechef.com/users/praddyumn)
++ I also do a bit of Competitve Programming and you can find me on Codechef [here](https://www.codechef.com/users/praddyumn).
 
 ###  🌱 I’m currently learning web development frameworks like React and Node.js
 
@@ -14,8 +14,8 @@
 ### 💬 Ask me about anything but not my 127.0.0.1 🤫
 
 ### 📫 How to reach me 🔊 : 
-+ Catch me up on LinkedIn [here](https://www.linkedin.com/in/praddyumnshukla/)
-+ Mail me at spraddyumn@gmail.com
++ Catch me up on LinkedIn [here](https://www.linkedin.com/in/praddyumnshukla/).
++ Mail me at spraddyumn@gmail.com !
 
 ### 😄 Pronouns: He/Him
 
