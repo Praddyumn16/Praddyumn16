@@ -7,9 +7,9 @@
 
 ###  🌱 I’m currently learning web development frameworks like React and Node.js
 
-### 👯 I’m looking to collaborate on full stack projects and on anything where you find of some use 😅
+### 👯 I’m looking to collaborate on full stack projects and on anything where you find me of some use 😅
 
-### 🤔 I’m looking for help with getting good in Javascript and back end development !!
+### 🤔 I’m looking for some help to get better in Javascript and back end development !!
 
 ### 💬 Ask me about anything but not my 127.0.0.1 🤫
 
