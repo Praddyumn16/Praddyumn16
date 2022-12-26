@@ -5,8 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=praddyumn16" alt="praddyumn16" /></a> </p>
 
-### 🧑‍💻 My Previous internship experience : 
-+ Consulting Engineer  @Cisco.
+### 🧑‍💻 Previous Internship Experiences: 
++ Consulting Engineer @Cisco.
 + Associate Mentor @GeeksforGeeks
 + Junior SDE @ICT Health
 + Summer intern @Juntrax Solutions
