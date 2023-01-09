@@ -12,6 +12,10 @@
 + Summer intern @Juntrax Solutions
 + WordPress Developer @Antar IOT 
 
+<h3 align="left">My Leetcode stats:</h3>
+
+![LeetCode Stats](https://leetcode.card.workers.dev/Praddyumn?theme=dark&font=baloo&extension=null)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left" >
 <a href="https://codepen.io/praddyumn16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="praddyumn16" height="40" width="50" /></a>
