@@ -14,7 +14,7 @@
 
 <h3 align="left">My Leetcode stats:</h3>
 
-![LeetCode Stats](https://leetcode.card.workers.dev/Praddyumn?theme=dark&font=baloo&extension=null)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Praddyumn?theme=dark&font=ABeeZee&ext=heatmap)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left" >
