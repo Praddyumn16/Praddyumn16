@@ -5,11 +5,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=praddyumn16" alt="praddyumn16" /></a> </p>
 
-### 🧑‍💻 Previous Internship Experiences: 
+### 🧑‍💻 Internship Experiences: 
++ SDE Intern @Samsung (Current)
 + Consulting Engineer @Cisco.
 + Associate Mentor @GeeksforGeeks
 + Junior SDE @ICT Health
-+ Summer intern @Juntrax Solutions
++ Summer Intern @Juntrax Solutions
 + WordPress Developer @Antar IOT 
 
 <h3 align="left">My Leetcode stats:</h3>
